@@ -4,7 +4,7 @@
 
 </h1>
 <p align="left">
-<img src="Anuj A. Giri (4) (1).png" alt="nametag" >
+<img src="logo.png" alt="nametag" >
 </p>
 <br />
 
