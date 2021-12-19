@@ -24,18 +24,63 @@
  <a href="#" >
             <img src="./assets/react-original.svg" width="48" height="48" alt="React" />
           </a>    
-<a href="#">
-            <img src="./assets/html.svg" width="48" height="48" alt="Bootstrap" />
-          </a>
-           <a href="#">
+
+   <a href="#">
             <img src="./assets/css.svg" width="48" height="48" alt="Sass" />
           </a>
-          <br>Css
-          <a href="#macropower-tech">
+    <a href="#macropower-tech">
             <img src="./assets/mysql-original.svg" width="48" height="48" alt="MySQL" />
           </a>
-          <br>MySQL
-    
+
+ <a href="#macropower-tech">
+            <img src="./assets/mongodb.svg" width="48" height="48" alt="MySQL" />
+          </a>
+          
+    <a href="#">
+        <img src="./assets/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+     
+          
+<br />
+ <a href="#macropower-tech">
+            <img src="./assets/postman.svg" width="48" height="48" alt="MySQL" />
+          </a>
+ <a href="#macropower-tech">
+            <img src="./assets/git.svg" width="48" height="48" alt="MySQL" />
+          </a>
+
+
+ <a href="#macropower-tech">
+            <img src="./assets/visual-studio-code.svg" width="48" height="48" alt="MySQL" />
+          </a>
+
+<a href="#macropower-tech">
+            <img src="./assets/materialui.png" width="48" height="48" alt="MySQL" />
+          </a>
+
+  <a href="#macropower-tech">
+            <img src="./assets/heroku.svg" width="48" height="48" alt="MySQL" />
+          </a>
+<br />
+
+
+  <a href="#macropower-tech">
+        <img src="./assets/npm.svg" width="48" height="48" alt="MySQL" />
+      </a>
+
+ <a href="#">
+        <img src="./assets/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+
+
+
+
+
+
+
+
+
+
 
 <br />
 
