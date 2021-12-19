@@ -21,7 +21,6 @@
 
 <h1>⚡ Things I code with</h1>
 
-
 <table >
     <tr >
        
@@ -68,7 +67,7 @@
       </a>
       <br>Css
     </td>
-<
+
 <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./assets/postman.svg" width="48" height="48" alt="MySQL" />
@@ -131,6 +130,7 @@
     </td>
     </tr>
 </table>
+
 
 
 <br />
