@@ -20,7 +20,13 @@
 <br />
 
 <h1>⚡ Things I code with</h1>
-
+    
+ <a href="#" >
+            <img src="./assets/react-original.svg" width="48" height="48" alt="React" />
+          </a>    
+<a href="#">
+            <img src="./assets/html.svg" width="48" height="48" alt="Bootstrap" />
+          </a>
     
 
 <br />
