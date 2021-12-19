@@ -23,62 +23,45 @@
 
 <table >
     <tr >
-       <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/python-programming-language.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
+       
     <td align="center" width="96">
       <a href="#">
         <img src="./assets/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+     
      <td align="center" width="96">
       <a href="#" >
         <img src="./assets/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
+      
     <td align="center" width="96">
       <a href="#">
         <img src="./assets/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./assets/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
+      
+    
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./assets/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./assets/postgresql.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>Postgres
-    </td>
-    </tr>
-    <tr>
-<td align="center"  width="96">
+      <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./assets/html.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>Html
     </td>
+   
+    </tr>
+    <tr>
+
 <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./assets/css.svg" width="48" height="48" alt="MySQL" />
