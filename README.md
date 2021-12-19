@@ -27,6 +27,14 @@
 <a href="#">
             <img src="./assets/html.svg" width="48" height="48" alt="Bootstrap" />
           </a>
+           <a href="#">
+            <img src="./assets/css.svg" width="48" height="48" alt="Sass" />
+          </a>
+          <br>Css
+          <a href="#macropower-tech">
+            <img src="./assets/mysql-original.svg" width="48" height="48" alt="MySQL" />
+          </a>
+          <br>MySQL
     
 
 <br />
