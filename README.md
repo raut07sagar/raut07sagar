@@ -20,28 +20,118 @@
 <br />
 
 <h1>⚡ Things I code with</h1>
-<p align="center">
-   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-JavaScript-764ABC?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Mongoose-8DD6F9?style=flat-square&logo=Mongoose&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Sql-430098?style=flat-square&logo=sql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Algorithm and data structure-430098?style=flat-square&logo=Algorithm and data structure&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-MUI-E34F26?style=flat-square&logo=MUI&logoColor=white" />
-   <img alt="CSS" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=Bootstrap&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 
+<table >
+    <tr >
+       
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="./assets/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./assets/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
   
-</p>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+
+    <td align="center"  width="96">
+        <a href="#macropower-tech">
+          <img src="./assets/html.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>Html
+      </td>
+   
+    </tr>
+    <tr>
+
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/css.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Css
+    </td>
+<
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/postman.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Postman
+    </td>
+
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/mongodb.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MongoDB
+    </td>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/git.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Git
+    </td>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/gitlab.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Gitlab
+    </td>
+    </tr>
+    <tr>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/redux.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Redux
+    </td>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/npm.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>npm
+    </td>
+
+
+
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/visual-studio-code.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>VS Code
+    </td>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/materialui.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Materail UI
+    </td>
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./assets/heroku.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Heroku
+    </td>
+    </tr>
+</table>
+
 
 <br />
 
