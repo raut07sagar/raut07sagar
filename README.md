@@ -8,13 +8,40 @@
 </p>
 <br />
 
-<!-- <h1>📖 About me</h1>
+<h2 align="center">
+    Hi, Human 🖖
+</h2>
 
-* 💻 Enthusiastic and dynamic “Full stack developer [MERN]” with hands-on experience in designing and developing web applications using a range of technologies and programming languages. 
+<p align="center">
+    <b>  Welcome to my GitHub, here you can find all the projects that I have worked on.</b>
+</p>
 
 
 
-* 🎓 I am a graduate from Priyadarshini college of engineering, Nagpur Maharashtra in 2020 -->
+<br />
+
+<p align="center">
+    <i>Feel free to hit me up for discussing interesting ideas:</i>
+    <br/><br/>
+    <a href="https://www.instagram.com/sagarraut007/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://t.me/shangkaul" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
+    </a>
+    <a href="rautsagar622@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
+    </a>
+<p/>
 
 
 <details>
