@@ -8,36 +8,45 @@
 </p>
 <br />
 
-<h1>📖 About me</h1>
+<!-- <h1>📖 About me</h1>
 
 * 💻 Enthusiastic and dynamic “Full stack developer [MERN]” with hands-on experience in designing and developing web applications using a range of technologies and programming languages. 
 
 
 
+* 🎓 I am a graduate from Priyadarshini college of engineering, Nagpur Maharashtra in 2020 -->
+
+
+<details>
+    <summary>More about me</summary>
+    
+ * 💻 Enthusiastic and dynamic “Full stack developer [MERN]” with hands-on experience in designing and developing web applications using a range of technologies and programming languages. 
+
+
+
 * 🎓 I am a graduate from Priyadarshini college of engineering, Nagpur Maharashtra in 2020
 
-
-<br />
-
-<h1>⚡ Things I code with</h1>
     
- 
+</details>
 
+<details>
+    <summary>My GitHub stats</summary>
+    <br />
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=raut07sagar&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=raut07sagar&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raut07sagar&theme=dark" alt="Streak Stats" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raut07sagar&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+    </p>
+    <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=raut07sagar&theme=xcode&bg_color=151515" alt="Activity Graph" />
+    </p>
+</details>
 
-
-
-<br />
-
-
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p>
-<img align="right" width="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=raut07sagar&show_icons=true&theme=radical" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raut07sagar&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raut07sagar&layout=compact&theme=radical&langs_count=6" />
-
-
-
+<img src="./.github/assets/images/footer.gif" alt="animated footer" />
