@@ -76,4 +76,4 @@
     </p>
 </details>
 
-<img src="./.github/assets/images/footer.gif" alt="animated footer" />
+<img src="https://raw.githubusercontent.com/shangkaul/shangkaul/main/.github/assets/images/footer.gif" alt="animated footer" />
