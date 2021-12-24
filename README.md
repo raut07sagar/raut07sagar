@@ -45,8 +45,7 @@
 
 
 <details>
-    <summary>More about me</summary>      <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" alt="Telegram Badge" />
-    
+    <summary>More about me</summary>     
  * 💻 Enthusiastic and dynamic “Full stack developer [MERN]” with hands-on experience in designing and developing web applications using a range of technologies and programming languages. 
 
 
