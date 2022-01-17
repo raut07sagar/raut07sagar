@@ -4,7 +4,7 @@
 
 </h1>
 <p align="left">
-<img src="LOGO 1.png" alt="nametag" >
+<img src="GIF.gif" alt="nametag" >
 </p>
 <br />
 
